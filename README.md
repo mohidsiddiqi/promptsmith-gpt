@@ -1,6 +1,5 @@
-# PromptSmith [![Open in ChatGPT](https://img.shields.io/badge/Open_in-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-68818a2cd4488191966c00f02ab55cc5-promptsmith)
-
-[👉 Try PromptSmith on ChatGPT](https://chatgpt.com/g/g-68818a2cd4488191966c00f02ab55cc5-promptsmith)
+# PromptSmith
+[![Open in ChatGPT](https://img.shields.io/badge/Open_in-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-68818a2cd4488191966c00f02ab55cc5-promptsmith)
 
 ### Make your ideas clear and ready to use.
 
@@ -14,11 +13,12 @@ It only helps you write a better prompt so you can get better answers later.
 
 Every time you use PromptSmith, you get three simple parts:
 
-| Part          | What it gives you                                                                 |
-| ------------- | --------------------------------------------------------------------------------- |
-| **Prompt**    | A clean version of what you want ChatGPT to do. You can copy and use it anywhere. |
-| **Critique**  | Short and easy tips that help you make the prompt stronger next time.             |
-| **Questions** | A few quick questions that help you add missing details.                          |
+| Part | What it gives you |
+| --- | --- |
+| **Prompt** | A clean version of what you want ChatGPT to do. You can copy and use it anywhere. |
+| **Critique** | Short and easy tips that help you make the prompt stronger next time. |
+| **Questions** | A few quick questions that help you add missing details. |
+
 
 ---
 
@@ -57,14 +57,14 @@ You do not need any special format or symbols.
 
 ## Helpful Commands You Can Type
 
-| Command              | What it does                                                                                                                       |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **simple mode**      | Keeps everything short and very easy to read.                                                                                      |
-| **examples please**  | Adds a short example with placeholders like `<your topic here>`.                                                                   |
-| **keep it short**    | Keeps the whole reply short, around 150 words.                                                                                     |
-| **make it longer**   | Gives a longer answer and may show two prompt versions.                                                                            |
-| **JSON please**      | Adds a small technical format inside the prompt, useful if you are using it in code. (You can ignore this if you do not use code.) |
-| **act as <persona>** | Makes the prompt written from a certain role, like “teacher,” “recruiter,” or “editor.”                                            |
+| Command                    | What it does                                                                                                                       |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **simple mode**            | Keeps everything short and very easy to read.                                                                                      |
+| **examples please**        | Adds a short example with placeholders like `<your topic here>`.                                                                   |
+| **keep it short**          | Keeps the whole reply short, around 150 words.                                                                                     |
+| **make it longer**         | Gives a longer answer and may show two prompt versions.                                                                            |
+| **JSON please**            | Adds a small technical format inside the prompt, useful if you are using it in code. (You can ignore this if you do not use code.) |
+| **act as &lt;persona&gt;** | Makes the prompt written from a certain role, like “teacher,” “recruiter,” or “editor.”                                            |
 
 ---
 
@@ -84,13 +84,14 @@ You can also click or type this:
 
 ---
 
+
 ## What to Expect
 
-✅ Works with any kind of input: short, long, messy, or very detailed.
-✅ Uses simple and clear language.
-✅ Keeps your writing style the same across turns.
-✅ Adds short safety notes when topics are medical, legal, or financial.
-❌ Does not answer your question or solve the task itself.
+- ✅ Works with any kind of input: short, long, messy, or very detailed.
+- ✅ Uses simple and clear language.
+- ✅ Keeps your writing style the same across turns.
+- ✅ Adds short safety notes when topics are medical, legal, or financial.
+- ❌ Does not answer your question or solve the task itself.
 
 ---
 
@@ -125,7 +126,7 @@ It only gives you the three parts: Prompt, Critique, and Questions.
 
 These are shortcuts you can click or type in ChatGPT:
 
-* **How do I use you**
+* **How do I use you?**
 * **Refine this idea → simple mode**
 * **Turn these notes into a research prompt → examples please**
 * **Draft a cover letter prompt from this JD**
@@ -134,3 +135,5 @@ These are shortcuts you can click or type in ChatGPT:
 
 ---
 
+**Try PromptSmith on ChatGPT:**  
+[Open PromptSmith](https://chatgpt.com/g/g-68818a2cd4488191966c00f02ab55cc5-promptsmith)
